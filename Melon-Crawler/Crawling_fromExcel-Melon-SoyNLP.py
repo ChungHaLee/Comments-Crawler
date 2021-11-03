@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # Crawling_fromExcel-Melon-SoyNLP
 
 # 형용사 태그 중 감정 단어는 기존 방법처럼 Konlpy 의 Okt 를 사용하고, 
